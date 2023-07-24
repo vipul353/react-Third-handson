@@ -13,3 +13,20 @@ body {
 }
 
 
+@media screen and (max-width:425px) {
+
+  html{
+    font-size: 36.5%;
+  }
+  
+}
+
+
+@media screen and (max-width:915px) {
+
+  html{
+    font-size: 38.5%;
+  }
+  
+}
+

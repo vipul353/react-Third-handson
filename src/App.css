@@ -2,6 +2,10 @@
   background: linear-gradient(0deg,white,#cf7171,#7cd5d5);
   height: 100vh;
   width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
 }
 
 h1{
