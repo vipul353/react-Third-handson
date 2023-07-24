@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./style.css";
 
 const Cards = ({ EmpData,clickHnadle }) => {
-  const [data, setData] = useState(EmpData);
+  const [data] = useState(EmpData);
   console.log(data.length);
   return (
     <div className="btn-row">
